@@ -16,6 +16,8 @@ module.exports = class HTML extends React.Component {
           {this.props.headComponents}
           <link rel="shortcut icon" href={favicon} />
           <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700" rel="stylesheet"/>
+          <script type="text/javascript" src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+
         </head>
         <body {...this.props.bodyAttributes}>
           {this.props.preBodyComponents}
