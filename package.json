@@ -2,9 +2,9 @@
   "name": "devblog",
   "description": "GatsbyJS blog template for developers",
   "version": "1.0.0",
-  "author": "Ryan Fitzgerald <ryanfitzgeralddev@gmail.com>",
+  "author": "Jeremy Waite <jawaite123@gmail.com>",
   "bugs": {
-    "url": "https://github.com/ryanfitzgerald/devblog/issues"
+    "url": "https://github.com/jawaite123/devblog/issues"
   },
   "dependencies": {
     "babel-plugin-styled-components": "^1.5.1",
@@ -35,7 +35,7 @@
     "gh-pages": "^0.12.0",
     "prettier": "^1.6.1"
   },
-  "homepage": "https://github.com/ryanfitzgerald/devblog#readme",
+  "homepage": "https://github.com/jawaite123/devblog#readme",
   "keywords": [
     "gatsby",
     "dev",
@@ -46,7 +46,7 @@
   "main": "n/a",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ryanfitzgerald/devblog.git"
+    "url": "git+https://github.com/jawaite123/devblog.git"
   },
   "scripts": {
     "dev": "gatsby develop",
