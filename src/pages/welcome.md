@@ -1,6 +1,7 @@
 ---
 title: New Beginnings
 date: "2018-08-01"
+featuredImage: 
 ---
 
 # Welcome
