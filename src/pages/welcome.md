@@ -1,5 +1,7 @@
-title:Welcome
-date:8/1/2018
+---
+ title: New Beginnings
+ date: "2018-08-01"
+ ---
 
 # Welcome
 
