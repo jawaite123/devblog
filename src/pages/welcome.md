@@ -1,8 +1,6 @@
 ---
- title: Welcome
- date: 2018-08-01T19:26:08.546Z
- ---
+title: Welcome
+date: "2018-06-29"
+---
 
-# Welcome
-
-More content coming soon
+More content coming soon!
