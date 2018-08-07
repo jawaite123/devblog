@@ -1,8 +1,7 @@
 ---
-title: New Beginnings
-date: "2018-08-01"
-featuredImage: 
----
+ title: Welcome
+ date: 2018-08-01T19:26:08.546Z
+ ---
 
 # Welcome
 
